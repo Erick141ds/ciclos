@@ -13,3 +13,4 @@ print(f"numeros pares entre {inicio}  y  {fin}")
 for num in range(inicio, fin + 1):
     if num % 2 == 0:
         print(num)
+        

@@ -1,4 +1,4 @@
-# '''
+ '''
 # Crea un programa que permita adivinar un número. La aplicación genera un 
 # número aleatorio del 1 al 100. A continuación va pidiendo números y va 
 # respondiendo si el número a adivinar es mayor o menor que el introducido,
@@ -11,7 +11,7 @@
 
 # import random
 # aleatorio = random.randint(limite_inf, limite_sup)
-# ''' 
+''' 
 import random
 numero_escondido = random.randint(1, 100)
 intentos = 0

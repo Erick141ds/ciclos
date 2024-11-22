@@ -22,3 +22,4 @@ print(f"numeros mayores a 0: {mayores}")
 print(f"numeros menores a 0: {menores}")
 print(f"numeros iguales: {iguales}")
     
+    

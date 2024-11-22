@@ -12,3 +12,4 @@ else:
     for i in range(1, N + 1):
         fa *= i
     print(f"el factorial de {N} es {fa}")
+    

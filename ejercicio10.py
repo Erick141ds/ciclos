@@ -12,3 +12,4 @@ for _ in range(exponente):
     resultado *= base
 
 print(f"El resultado de {base} elevado a {exponente} es: {resultado}")
+

@@ -15,4 +15,5 @@ for mes in range(1, meses + 1):
     total_pagado += pago_mensual
     print(f"{mes}\t{pago_mensual:.2f}")
 
+
 print(f"\nEl total pagado después de {meses} meses es: {total_pagado:.2f} EUR")

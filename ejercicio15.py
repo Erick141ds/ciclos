@@ -12,6 +12,5 @@ def convertir_a_binario_con_ciclos(numero):
     return binario
 
 numero = int(input("Introduce un número entero: "))
-
 binario = convertir_a_binario_con_ciclos(numero)
 print(f"El número {numero} en binario es: {binario}")

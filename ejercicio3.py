@@ -1,4 +1,4 @@
-# '''
+'''
 # Algoritmo que pida números hasta que se introduzca un cero. Debe imprimir la suma
 # y la media de todos los números introducidos.
 
@@ -21,7 +21,7 @@
 # for i in range(5):
 #     acumulador = acumulador + i
 # print(acumulador)
-# '''
+'''
 suma = 0
 cuenta = 0
 while True:

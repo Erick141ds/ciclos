@@ -12,3 +12,4 @@ while True:
         print("¡VOCAL!")
     else:
         print("¡no vocal!")
+        

@@ -12,3 +12,4 @@ while True:
     suma = suma + numero
     cuenta = cuenta + 1 
 print(f"el promedio final es: ", suma / cuenta)
+
