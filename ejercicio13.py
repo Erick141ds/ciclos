@@ -11,7 +11,7 @@ total_pagado = 0
 print("Mes\tPago mensual (EUR)")
 
 for mes in range(1, meses + 1):
-    pago_mensual = pago_inicial * (2 ** (mes - 1))  # El pago se duplica cada mes
+    pago_mensual = pago_inicial * (2 ** (mes - 1)) 
     total_pagado += pago_mensual
     print(f"{mes}\t{pago_mensual:.2f}")
 
